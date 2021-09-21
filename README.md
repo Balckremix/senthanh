@@ -1,5 +1,5 @@
 🎃🎃Mình tên là Nguyễn Thanh Sang còn được có biệt danh là Sen🎃🎃
-https://thuthuatnhanh.com/wp-content/uploads/2020/09/hinh-anh-dong-anime-co-gai-hon-nhien-dang-yeu.gif
+https://bitly.com.vn/2zzd22
 Giới thiệu
 
 🐳🐳Tôi tên là Nguyễn Thanh Sang (Sen)
