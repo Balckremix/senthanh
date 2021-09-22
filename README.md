@@ -1,5 +1,8 @@
-🎃🎃Mình tên là Nguyễn Thanh Sang còn được có biệt danh là Sen🎃🎃
-https://bitly.com.vn/2zzd22
+🎃🎃M<h1> Xin chào, mình là 🍁JRT🍂 <img src="https://64.media.tumblr.com/ec0eecc3282d2656fb193806f5b66141/df472d6d76201135-ae/s400x600/f1857cdafdfb3e4062ee757cdfc38de14596b84e.gifv" width="25"></h1> 
+
+<p align="center">
+    <https://64.media.tumblr.com/ec0eecc3282d2656fb193806f5b66141/df472d6d76201135-ae/s400x600/f1857cdafdfb3e4062ee757cdfc38de14596b84e.gifv" />🎃🎃
+
 Giới thiệu
 
 🐳🐳Tôi tên là Nguyễn Thanh Sang (Sen)
