@@ -1,6 +1,6 @@
-🎃🎃<h1> Xin chào, mình là 🍁Sen🍂 <img src="https://i.pinimg.com/originals/83/c5/1c/83c51c0e7a340e6b3d30de2e9e2a1393.gif" width="25"></h1> 
+🎃🎃<h1> Xin chào, mình là 🍁Sen🍂 <img src="https://i.pinimg.com/originals/0e/6a/e2/0e6ae23b9442817f42073c98f0f38808.gif" width="25"></h1> 
 </p> 
-<p align="left"> <img src="https://i.pinimg.com/originals/83/c5/1c/83c51c0e7a340e6b3d30de2e9e2a1393.gif" /> </p>
+<p align="left"> <img src="https://i.pinimg.com/originals/0e/6a/e2/0e6ae23b9442817f42073c98f0f38808.gif" /> </p>
 
 Giới thiệu
 
