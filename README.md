@@ -1,7 +1,7 @@
-🎃🎃M<h1> Xin chào, mình là 🍁JRT🍂 <img src="https://64.media.tumblr.com/ec0eecc3282d2656fb193806f5b66141/df472d6d76201135-ae/s400x600/f1857cdafdfb3e4062ee757cdfc38de14596b84e.gifv" width="25"></h1> 
+🎃🎃<h1> Xin chào, mình là 🍁Sen🍂 <img src="https://64.media.tumblr.com/ec0eecc3282d2656fb193806f5b66141/df472d6d76201135-ae/s400x600/f1857cdafdfb3e4062ee757cdfc38de14596b84e.gifv" width="25"></h1> 
 
 <p align="center">
-    <https://64.media.tumblr.com/ec0eecc3282d2656fb193806f5b66141/df472d6d76201135-ae/s400x600/f1857cdafdfb3e4062ee757cdfc38de14596b84e.gifv" />🎃🎃
+    <https://64.media.tumblr.com/ec0eecc3282d2656fb193806f5b66141/df472d6d76201135-ae/s400x600/f1857cdafdfb3e4062ee757cdfc38de14596b84e.gifv" />
 
 Giới thiệu
 
