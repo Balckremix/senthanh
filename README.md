@@ -1,7 +1,6 @@
-🎃🎃<h1> Xin chào, mình là 🍁Sen🍂 <img src="https://64.media.tumblr.com/ec0eecc3282d2656fb193806f5b66141/df472d6d76201135-ae/s400x600/f1857cdafdfb3e4062ee757cdfc38de14596b84e.gifv" width="25"></h1> 
-
-<p align="center">
-    <https://64.media.tumblr.com/ec0eecc3282d2656fb193806f5b66141/df472d6d76201135-ae/s400x600/f1857cdafdfb3e4062ee757cdfc38de14596b84e.gifv" />
+🎃🎃<h1> Xin chào, mình là 🍁Sen🍂 <img src="https://i.pinimg.com/originals/83/c5/1c/83c51c0e7a340e6b3d30de2e9e2a1393.gif" width="25"></h1> 
+</p> 
+<p align="left"> <img src="https://i.pinimg.com/originals/83/c5/1c/83c51c0e7a340e6b3d30de2e9e2a1393.gif" /> </p>
 
 Giới thiệu
 
