@@ -2,7 +2,7 @@
 #### 🔭 sống tại Đà Lạt
 #### 🌱 2k5 và có project riêng
 #### 👰 he he cái đồ ngu ngok
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Citnut&show_icons=true&theme=nightowl)](https://github.com/Citnut)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Senthanh&show_icons=true&theme=nightowl)](https://github.com/senthanh)
 
 <br>
 <br>
@@ -14,7 +14,7 @@
 <br>
 <br>
 <p align="center">
-  <a href="https://facebook.com/100048509610460" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30" width="30" /></a>
+  <a href="https://www.facebook.com/projectsenthanh" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30" width="30" /></a>
 </p>
 <br>
 <br>
