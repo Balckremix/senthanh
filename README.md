@@ -21,7 +21,7 @@
 
 > <img src="assets/gifs/star.gif" width="30px">&nbsp;***Talking about Information***
 
-<img align="right" width=250px alt="shinchan" src="assets/gifs/shinchan.gif" />
+<img align="right" width=250px alt="shinchan" src="shinchan.gif" />
 
 -   🔭 My name is Nguyễn Thanh Sang.
 -   🌱 26/06/2005
