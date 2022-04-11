@@ -61,6 +61,9 @@
    <img height="180em" src="https://imgur.com/Ult6GKA.jpg" />
 </p>  
 <br>
-![](./profile-night-view.svg)
+<!-- trungquandev -->
+<a href="#" target="_blank">
+  <img src="profile-night-view.svg" width="1200" alt="Click to see the source" />
+</a>
 
 #cre : JUKIE , MANHG , DUYVUONG SOME GIT...
