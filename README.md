@@ -63,6 +63,8 @@
 <br>
 
 #cre : JUKIE , MANHG SOME GIT...
+</p>  
+<br>
 notselwyn@nsa.local:~$ neofetch
 
                    .~vVeZNgQBBBQQg9Ze1v~.                   
