@@ -26,5 +26,5 @@ Available as github action. Automatically generate a new image at the end of the
 
 <!-- trungquandev -->
 <a href="#" target="_blank">
-  <img src="svg/D-Jukie.svg" width="1200" alt="Click to see the source" />
+  <img src="D-Jukie.svg" width="1200" alt="Click to see the source" />
 </a>
