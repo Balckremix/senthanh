@@ -1,10 +1,10 @@
-# snk
-
-[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
-[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
-![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
-![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
-
+<h1 align="center"> Hi <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width="25">, I'm MạnhG </h1>
+<h3 align="center"> Developer from Vietnames</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manhkhac&color=ff69b4" alt="manhkhac" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=manhkhac&column=8&theme=gruvbox&no-frame=true"/></a> 
+</p>
+<br>
 Generates a snake game from a github user contributions graph
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
