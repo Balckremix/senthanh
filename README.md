@@ -65,6 +65,7 @@
 #cre : JUKIE , MANHG SOME GIT...
 </p>  
 <br>
+```console
 notselwyn@nsa.local:~$ neofetch
 
                    .~vVeZNgQBBBQQg9Ze1v~.                   
@@ -92,3 +93,6 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Discord: Lau#9098
           `vR#@@@@@@@@?              M@@@@@@@@#Pv`             Neural Net Racing: ~/NEAT-Car-Racing
               "Lf8@@@@v              q@@@#Qa?:                 
                   -!v|`              _?v!`                     
+```
+```console
+notselwyn@nsa.local:~$ stats 
