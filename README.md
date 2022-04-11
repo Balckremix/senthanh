@@ -1,6 +1,6 @@
-<h1 align="center"> Hi <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" width="25">, I'm Sen Thanh </h1>
+<h1 align="center"> Hi <img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="25">, I'm Sen Thanh </h1>
 <h3 align="center"> Developer from Vietnames</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manhkhac&color=ff69b4" alt="manhkhac" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manhkhac&color=ff69b4" alt="senthanh" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=manhkhac&column=8&theme=gruvbox&no-frame=true"/></a> 
 </p>
