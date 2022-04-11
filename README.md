@@ -19,11 +19,19 @@
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-# 👨🏻‍💻 About Me
+> <img src="assets/gifs/star.gif" width="30px">&nbsp;***Talking about Information***
 
-- 🔭 &nbsp; My fullname is Nguyễn thanh Sang.
-- 🌱 &nbsp; My hobby are watching anime, science fiction movie and coding :3.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
+<img align="right" width=250px alt="shinchan" src="assets/gifs/shinchan.gif" />
+
+-   🔭 My name is Nguyễn Thanh Sang.
+-   🌱 26/06/2005
+-   💬 Love you all!
+-   📥 ANIME NEVER DIE
+-   😄 Pronouns: [He/His](https://pronoun.is/she)
+-   ⚡ Fun fact: I like **Shinchan, sleeping, coding, listening to music, eating and blah blah blah**. I dislike everything except my likes!
+
+<hr>
+
 
 # 🛠 Tech Stack
 
