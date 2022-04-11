@@ -21,7 +21,7 @@
 
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
+![Hello](hello.svg)
 > <img src="assets/gifs/star.gif" width="30px">&nbsp;***Talking about Information***
 
 <img align="right" width=250px alt="shinchan" src="shinchan.gif" />
@@ -61,5 +61,6 @@
    <img height="180em" src="https://imgur.com/Ult6GKA.jpg" />
 </p>  
 <br>
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 #cre : JUKIE , MANHG , DUYVUONG SOME GIT...
