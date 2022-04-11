@@ -5,7 +5,7 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=manhkhac&column=8&theme=gruvbox&no-frame=true"/></a> 
 </p>
 <br>
-# 🤝🏻 Connect with Me
+#Connect with Me
 <p align="center">
 &nbsp; <a href="https://twitter.com/nguyenmanh" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="100" /></a>  
 &nbsp; <a href="https://www.instagram.com/manhklove1" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="100" /></a>  
