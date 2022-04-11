@@ -5,7 +5,7 @@
 <p align="center">
   <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
 <h1 align="center"> Hi <img src="https://img.icons8.com/plasticine/100/000000/github.png" width="25">, I'm Senthanh </h1>
-<h3 align="center"> Developer from Vietnames</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senthanhc&color=ff69b4" alt="manhkhac" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=senthanh&column=8&theme=gruvbox&no-frame=true"/></a> 
