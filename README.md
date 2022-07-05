@@ -6,8 +6,8 @@
 
 <img align="right" width=250px alt="shinchan" src="shinchan.gif" />
 
--   🔭 My name is Nguyễn Thanh Sang.
--   🌱 26/06/2005
+-   🔭 My name is Nguyễn Thanh Mài.
+-   🌱 23/12/2007
 -   💬 Love you all!
 -   📥 ANIME NEVER DIE
 -   😄 Pronouns: [He/His](https://pronoun.is/she)
